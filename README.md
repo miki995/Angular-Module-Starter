@@ -1,7 +1,8 @@
 # Angular Module Starter
 
-![text](https://github.com/miki995/Angular-Module-Starter/blob/master/starter.png)
-
+<p align="center">
+    <img src="https://github.com/miki995/Angular-Module-Starter/blob/master/starter.png" alt="Angular Module Starter" width="200" height="200"/>
+</p>
 
 ## Description
 An Angular Module Starter kit featuring : Components, Services and Redux with (store, effects, actions).
