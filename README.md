@@ -1,6 +1,6 @@
 # Angular Module Starter
 
-![text](https://github.com/miki995/Angular-Module-Starter/blob/master/starter.jpg)
+![text](https://github.com/miki995/Angular-Module-Starter/blob/master/starter.png)
 
 
 ## Description
