@@ -16,25 +16,14 @@ Download files or clone.
 
 To lazy load this module add this :
 
-* Angular 6-
-
 ```
 {
     canActivate: [AuthGuard],
-    loadChildren: 'app/starter/starter.module#StarterModule',
+    loadChildren: './starter/starter.module#StarterModule',
     path: 'planning'
 }
 ```
 
-* Angular 7+
-
-```
-{
-    canActivate: [AuthGuard],
-    loadChildren: () => StarterModule,
-    path: 'planning'
-}
-```
 
 and in your html, preferably sidebar or menu add [routerLink]="starter".
 
